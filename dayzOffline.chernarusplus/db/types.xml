@@ -315,7 +315,7 @@
     </type>
     <type name="AmmoBox">
         <nominal>10</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>15552000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -1598,24 +1598,24 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="BarrelHoles_Blue">
-        <lifetime>3888000</lifetime>
+        <lifetime>15552000</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="1" deloot="0"/>
     </type>
     <type name="BarrelHoles_Green">
-        <lifetime>3888000</lifetime>
+        <lifetime>15552000</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="1" deloot="0"/>
     </type>
     <type name="BarrelHoles_Red">
-        <lifetime>3888000</lifetime>
+        <lifetime>15552000</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="1" deloot="0"/>
     </type>
     <type name="BarrelHoles_Yellow">
-        <lifetime>3888000</lifetime>
+        <lifetime>15552000</lifetime>
         <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="1" deloot="0"/>
     </type>
     <type name="Barrel_Blue">
         <nominal>40</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>15552000</lifetime>
         <restock>0</restock>
         <min>20</min>
         <quantmin>-1</quantmin>
@@ -1629,7 +1629,7 @@
     </type>
     <type name="Barrel_Green">
         <nominal>40</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>15552000</lifetime>
         <restock>0</restock>
         <min>20</min>
         <quantmin>-1</quantmin>
@@ -1643,7 +1643,7 @@
     </type>
     <type name="Barrel_Red">
         <nominal>40</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>15552000</lifetime>
         <restock>0</restock>
         <min>20</min>
         <quantmin>-1</quantmin>
@@ -1657,7 +1657,7 @@
     </type>
     <type name="Barrel_Yellow">
         <nominal>40</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>15552000</lifetime>
         <restock>0</restock>
         <min>20</min>
         <quantmin>-1</quantmin>
@@ -1839,7 +1839,7 @@
     </type>
     <type name="BatteryCharger">
         <nominal>60</nominal>
-        <lifetime>604800</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>40</min>
         <quantmin>-1</quantmin>
@@ -2622,7 +2622,7 @@
     </type>
     <type name="CableReel">
         <nominal>80</nominal>
-        <lifetime>604800</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>50</min>
         <quantmin>-1</quantmin>
@@ -2920,7 +2920,7 @@
     </type>
     <type name="CarTent">
         <nominal>10</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>15552000</lifetime>
         <restock>0</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
@@ -4150,11 +4150,11 @@
         <value name="Tier4"/>
     </type>
     <type name="Fence">
-        <lifetime>3888000</lifetime>
+        <lifetime>15552000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="FenceKit">
-        <lifetime>7200</lifetime>
+        <lifetime>604800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="FirefighterAxe">
@@ -4263,11 +4263,11 @@
         <usage name="Firefighter"/>
     </type>
     <type name="Fireplace">
-        <lifetime>7200</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="FireplaceIndoor">
-        <lifetime>1800</lifetime>
+        <lifetime>3888000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="Firewood">
@@ -5241,7 +5241,7 @@
     </type>
     <type name="HescoBox">
         <nominal>150</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>15552000</lifetime>
         <restock>0</restock>
         <min>100</min>
         <quantmin>-1</quantmin>
@@ -6259,7 +6259,7 @@
     </type>
     <type name="LargeTent">
         <nominal>10</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>15552000</lifetime>
         <restock>0</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
@@ -7255,7 +7255,7 @@
     </type>
     <type name="MediumTent">
         <nominal>30</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>15552000</lifetime>
         <restock>0</restock>
         <min>20</min>
         <quantmin>-1</quantmin>
@@ -8687,7 +8687,7 @@
     </type>
     <type name="PowerGenerator">
         <nominal>80</nominal>
-        <lifetime>604800</lifetime>
+        <lifetime>15552000</lifetime>
         <restock>0</restock>
         <min>50</min>
         <quantmin>-1</quantmin>
@@ -9421,7 +9421,7 @@
     </type>
     <type name="SeaChest">
         <nominal>20</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>15552000</lifetime>
         <restock>0</restock>
         <min>10</min>
         <quantmin>-1</quantmin>
@@ -10023,7 +10023,7 @@
     </type>
     <type name="SmallProtectorCase">
         <nominal>75</nominal>
-        <lifetime>3888000</lifetime>
+        <lifetime>15552000</lifetime>
         <restock>0</restock>
         <min>50</min>
         <quantmin>-1</quantmin>
@@ -11252,7 +11252,7 @@
         <value name="Tier3"/>
     </type>
     <type name="UndergroundStash">
-        <lifetime>3888000</lifetime>
+        <lifetime>15552000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="UniversalLight">
@@ -11545,11 +11545,11 @@
         <usage name="Military"/>
     </type>
     <type name="Watchtower">
-        <lifetime>3888000</lifetime>
+        <lifetime>15552000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="WatchtowerKit">
-        <lifetime>7200</lifetime>
+        <lifetime>604800</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="WaterBottle">
@@ -11846,11 +11846,11 @@
         <usage name="Village"/>
     </type>
     <type name="WoodenCrate">
-        <lifetime>3888000</lifetime>
+        <lifetime>15552000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="WoodenPlank">
-        <lifetime>1800</lifetime>
+        <lifetime>7200</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
     </type>
     <type name="WoodenStick">
@@ -13829,3 +13829,12 @@
         <usage name="Hunting"/>
     </type>
 </types>
+<!--
+Random values
+    3600 = 1h
+   86400 = 1d
+  604800 = 7d
+ 2592000 = 10d
+ 3888000 = 45d
+15552000 = 108d
+-->
