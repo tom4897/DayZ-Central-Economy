@@ -1063,7 +1063,7 @@
 		<pos x="3606.447998" z="2223.9292" a="198.866821" />
 		<pos x="3574.195069" z="2214.925293" a="294.601654" />
 		<pos x="3609.658936" z="2237.22168" a="287.890656" />
-		<pos x="3596.823486" z="2236.208984" a="20.201563" />	
+		<pos x="3596.823486" z="2236.208984" a="20.201563" />
     </event>
     <event name="VehicleV3SChassis" >
 		<pos x="7735.35498" z="14834.541016" a="275.906708" />
@@ -1179,6 +1179,7 @@
 		<pos x="10257.797851" z="3617.499512" a="270.770691" />
 	</event>
 	<event name="VehicleV3SCargo" />
+	<event name="VehicleHatchback_02" />
     <event name="VehicleTransitBus" />
     <event name="InfectedVillage" />
     <event name="InfectedSolitude" />

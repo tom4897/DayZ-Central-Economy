@@ -1616,7 +1616,7 @@
 		<cargo preset="toolsVillage" />
 		<attachments preset="glassesVillage" />
 		<attachments preset="hatsFarm" />
-		<attachments preset="bagsVillage" />>
+		<attachments preset="bagsVillage" />
 	</type>
 	<type name="ZmbF_VillagerOld_Green">
 		<cargo preset="foodVillage" />
@@ -2863,63 +2863,63 @@
 
 	<type name="Hatchback_02">
 		<attachments chance="1.00">
-			<item name="Hatchback_02_Wheel" chance="0.60" />
-		</attachments>
+			<item name="Hatchback_02_Wheel" chance="1.00" />
+        </attachments>
 		<attachments chance="1.00">
-			<item name="Hatchback_02_Wheel" chance="0.60" />
-		</attachments>
+			<item name="Hatchback_02_Wheel" chance="1.00" />
+        </attachments>
 		<attachments chance="1.00">
-			<item name="Hatchback_02_Wheel" chance="0.40" />
-		</attachments>
+			<item name="Hatchback_02_Wheel" chance="1.00" />
+        </attachments>
 		<attachments chance="1.00">
-			<item name="Hatchback_02_Wheel" chance="0.40" />
-		</attachments>
+			<item name="Hatchback_02_Wheel" chance="1.00" />
+        </attachments>
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.60" />
-		</attachments>
+        </attachments>
 		<attachments chance="1.00">
 			<item name="CarBattery" chance="0.60" />
-		</attachments>
+        </attachments>
 		<attachments chance="1.00">
 			<item name="SparkPlug" chance="0.60" />
-		</attachments>
+        </attachments>
 		<attachments chance="1.00">
 			<item name="HeadlightH7" chance="0.40" />
-		</attachments>
+        </attachments>
 		<attachments chance="1.00">
 			<item name="HeadlightH7" chance="0.40" />
-		</attachments>
+        </attachments>
 		<attachments chance="1.00">
 			<item name="Hatchback_02_Door_1_1" chance="0.30" />
-		</attachments>
+        </attachments>
 		<attachments chance="1.00">
 			<item name="Hatchback_02_Door_1_2" chance="0.30" />
-		</attachments>
+        </attachments>
 		<attachments chance="1.00">
 			<item name="Hatchback_02_Door_2_1" chance="0.30" />
-		</attachments>
+        </attachments>
 		<attachments chance="1.00">
 			<item name="Hatchback_02_Door_2_2" chance="0.30" />
-		</attachments>
+        </attachments>
 		<attachments chance="1.00">
 			<item name="Hatchback_02_Hood" chance="0.20" />
-		</attachments>
+        </attachments>
 		<attachments chance="1.00">
 			<item name="Hatchback_02_Trunk" chance="0.20" />
 		</attachments>
 	</type>
 	<type name="Sedan_02">
 		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.60" />
+			<item name="Sedan_02_Wheel" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.60" />
+			<item name="Sedan_02_Wheel" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.40" />
+			<item name="Sedan_02_Wheel" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Sedan_02_Wheel" chance="0.40" />
+			<item name="Sedan_02_Wheel" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.60" />

@@ -831,9 +831,9 @@
 	</event>
 	<event name="VehicleCivilianSedan">
 		<waves>0</waves>
-		<nominal>25</nominal>
-		<min>20</min>
-		<max>25</max>
+		<nominal>35</nominal>
+		<min>25</min>
+		<max>35</max>
 		<lifetime>300</lifetime>
 		<restock>0</restock>
 		<saferadius>500</saferadius>
@@ -849,6 +849,24 @@
 			<child lootmax="0" lootmin="0" max="15" min="10" type="Sedan_02"/>
 		</children>
 	</event>
+	<event name="VehicleHatchback_02">
+        <waves>0</waves>
+        <nominal>25</nominal>
+        <min>20</min>
+        <max>25</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="20" min="15" type="Hatchback_02"/>
+        </children>
+    </event>
 	<event name="VehicleOffroadHatchback">
 		<waves>0</waves>
 		<nominal>15</nominal>
